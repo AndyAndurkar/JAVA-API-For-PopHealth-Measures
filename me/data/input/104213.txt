@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f0000a9"} , "first" : "Bart" , "last" : "Bloggs" , "gender" : "M" , "patient_id" : "104213" , "birthdate" : -921542400 , "measures" : { "0421" : { "encounter_outpatient_encounter" : [ 1271721600] , "terminal_illness_patient_characteristic" : [ 1263945600]}}}

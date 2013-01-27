@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f000075"} , "first" : "Marnie" , "last" : "Mason" , "gender" : "F" , "patient_id" : "100742" , "birthdate" : -132624000 , "measures" : { "0074" : { "encounter_outpatient_encounter" : [ 1275350400 , 1277942400] , "coronary_artery_disease_includes_mi_diagnosis_active" : [ 1280620800]}}}

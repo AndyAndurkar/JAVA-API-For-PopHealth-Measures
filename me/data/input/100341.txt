@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f0000f3"} , "first" : "Fred" , "last" : "Bloggs" , "gender" : "M" , "patient_id" : "100341" , "birthdate" : -631152000 , "measures" : { "0034" : { "encounter_outpatient_encounter" : [ 1280620800]}}}

@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f000110"} , "first" : "Debbie" , "last" : "Anderson" , "gender" : "F" , "patient_id" : "100384" , "birthdate" : 1245024000 , "measures" : { "0038" : { "encounter_outpatient_w_pcp_obgyn_encounter" : 1252972800 , "progressive_neurologic_disorder_diagnosis_active" : 1252972800}}}

@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f00008b"} , "first" : "Simon" , "last" : "Bloggs" , "gender" : "M" , "patient_id" : "100133" , "birthdate" : -921542400 , "measures" : { "0013" : { "hypertension_diagnosis_active" : 1277856000 , "encounter_outpatient_encounter" : [ 1277856000 , 1277856000]}}}

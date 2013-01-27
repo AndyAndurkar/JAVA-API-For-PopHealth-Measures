@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f000049"} , "first" : "Felicity" , "last" : "Bloggs" , "gender" : "F" , "patient_id" : "103851" , "birthdate" : -631152000 , "measures" : { "0385" : { "encounter_office_visit_encounter" : [ 1267401600 , 1277942400] , "colon_cancer_diagnosis_active" : [ 1275350400] , "colon_cancer_stage_iii_procedure_result" : [ 1275350400]}}}

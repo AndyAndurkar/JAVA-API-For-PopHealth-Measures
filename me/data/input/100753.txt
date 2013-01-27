@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f00007f"} , "first" : "Colin" , "last" : "Singer" , "gender" : "M" , "patient_id" : "100753" , "birthdate" : 656208000 , "measures" : { "0075" : { "ischemic_vascular_disease_diagnosis_active" : 1237334400 , "encounter_acute_inpt_and_outpt_encounter" : 1237334400}}}

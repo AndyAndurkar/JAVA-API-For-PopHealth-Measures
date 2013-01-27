@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f0000e4"} , "first" : "Stephanie" , "last" : "Smith" , "gender" : "F" , "patient_id" : "100432" , "birthdate" : -921542400 , "measures" : { "0043" : { "encounter_outpatient_encounter" : 1284854400 , "pneumococcal_vaccination_all_ages_procedure_performed" : 1284854400}}}

@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f00009f"} , "first" : "Felicity" , "last" : "Bloggs" , "gender" : "M" , "patient_id" : "100332" , "birthdate" : 808790400 , "measures" : { "0033" : { "encounter_outpatient_encounter" : 1277856000 , "contraceptives_medication_active" : 1277856000}}}

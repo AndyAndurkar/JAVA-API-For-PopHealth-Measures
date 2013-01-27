@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f000138"} , "first" : "Louise" , "last" : "Gunderson" , "gender" : "F" , "patient_id" : "100524" , "birthdate" : -132624000 , "measures" : { "0052" : { "encounter_ambulatory_including_orthopedics_and_chiropractics_encounter" : [ 1258588800] , "low_back_pain_diagnosis_active" : [ 1250640000 , 1258588800]}}}

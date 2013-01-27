@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f000061"} , "first" : "Lavern" , "last" : "Defazio5" , "birthdate" : -290390400 , "gender" : "F" , "patient_id" : "100315" , "measures" : { "0031" : { "encounter_outpatient_encounter" : 1277856000 , "breast_cancer_screening_diagnostic_study_performed" : 1224806400 , "unilateral_mastectomy_procedure_performed" : [ 1]}}}

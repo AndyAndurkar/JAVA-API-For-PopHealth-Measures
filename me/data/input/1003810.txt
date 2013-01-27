@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f00011d"} , "first" : "Nora" , "last" : "Stanley" , "gender" : "F" , "patient_id" : "1003810" , "birthdate" : 1245024000 , "measures" : { "0038" : { "encounter_outpatient_w_pcp_obgyn_encounter" : 1252972800 , "hepatitis_b_vaccine_medication_allergy" : 1252972800}}}

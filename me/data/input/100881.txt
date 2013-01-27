@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f0000a4"} , "first" : "Rod" , "last" : "Idol" , "gender" : "M" , "patient_id" : "100881" , "birthdate" : 645408000 , "measures" : { "0088" : { "diabetic_retinopathy_diagnosis_active" : [ 1276560000] , "encounter_office_outpatient_consult_encounter" : [ 1276560000 , 1279152000] , "medical_reason_procedure_not_done" : [ 1279152000]}}}

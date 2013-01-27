@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f000058"} , "first" : "Elizabeth" , "last" : "Burke" , "gender" : "F" , "patient_id" : "100414" , "birthdate" : -921542400 , "measures" : { "0041" : { "encounter_prev_med_40_and_older_encounter" : 1267401600 , "encounter_influenza_encounter" : 1267401600}}}

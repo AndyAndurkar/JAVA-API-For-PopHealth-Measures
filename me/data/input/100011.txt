@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f000009"} , "first" : "Bert" , "last" : "Bloggs" , "gender" : "M" , "patient_id" : "100011" , "birthdate" : 182908800 , "measures" : { "0001" : { "asthma_diagnosis_active" : 1255910400 , "encounter_office_outpatient_consult_encounter" : [ 1275177600 , 1277856000]}}}

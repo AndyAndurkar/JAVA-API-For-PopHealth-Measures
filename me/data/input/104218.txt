@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f0000ab"} , "first" : "Chris" , "last" : "Bloggs" , "gender" : "M" , "patient_id" : "104218" , "birthdate" : 25142400 , "measures" : { "0421" : { "encounter_outpatient_encounter" : [ 1271721600] , "bmi_physical_exam_finding" : [ { "value" : 24 , "date" : 1269043200}]}}}

@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f0000bb"} , "first" : "Bernice" , "last" : "Bloggs" , "gender" : "F" , "patient_id" : "100124" , "birthdate" : 631152000 , "measures" : { "0012" : { }}}

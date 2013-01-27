@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f00006d"} , "first" : "Kimberly" , "last" : "Savage" , "gender" : "F" , "patient_id" : "100731" , "birthdate" : 404784000 , "measures" : { "0073" : { "acute_myocardial_infarction_diagnosis_active" : 1237334400 , "encounter_acute_inpt_encounter" : [ 1237334400]}}}

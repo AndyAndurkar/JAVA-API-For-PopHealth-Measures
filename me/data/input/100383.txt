@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f000119"} , "first" : "Bill" , "last" : "Hayes" , "gender" : "M" , "patient_id" : "100383" , "birthdate" : 1245024000 , "measures" : { "0038" : { "encounter_outpatient_w_pcp_obgyn_encounter" : 1252972800 , "encephalopathy_diagnosis_active" : 1252972800}}}

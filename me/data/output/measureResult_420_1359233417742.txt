@@ -1,0 +1,8 @@
+PatientId,FirstName,LastName,MeasureId,SubId,Population,Denominator,Exclusions,Antinumerator,Numerator
+100011,Bert,Bloggs,0001,-,true,true,false,true,false
+100012,Donald,Disney,0001,-,true,true,false,true,false
+100013,Vicky,Venson,0001,-,true,true,false,true,false
+100014,Paul,Hewson,0001,-,true,true,false,false,true
+100015,Sarah,Bloggs,0001,-,true,true,false,false,true
+100016,Becky,Bloggs,0001,-,true,true,false,false,true
+100017,David,Evans,0001,-,true,true,false,true,false

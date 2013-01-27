@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f000045"} , "first" : "Gossmunder" , "last" : "Thunderfork" , "gender" : "M" , "patient_id" : "100474" , "birthdate" : 656294400 , "measures" : { "0047" : { }}}

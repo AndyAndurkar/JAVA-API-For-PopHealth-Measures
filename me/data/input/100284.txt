@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f000030"} , "first" : "Roberta" , "last" : "Bloggs" , "gender" : "F" , "patient_id" : "100284" , "birthdate" : 25142400 , "measures" : { "0028" : { "encounter_prev_med_individual_counseling_encounter" : 1271721600}}}

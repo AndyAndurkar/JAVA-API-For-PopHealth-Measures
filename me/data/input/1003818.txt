@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f00012b"} , "first" : "Joni" , "last" : "Wynette" , "gender" : "F" , "patient_id" : "1003818" , "birthdate" : 1245024000 , "measures" : { "0038" : { "encounter_outpatient_w_pcp_obgyn_encounter" : 1252972800 , "neomycin_medication_allergy" : 1253232000}}}

@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f000131"} , "first" : "Ruby" , "last" : "Harley" , "gender" : "F" , "patient_id" : "1003814" , "birthdate" : 1245024000 , "measures" : { "0038" : { "encounter_outpatient_w_pcp_obgyn_encounter" : 1252972800 , "hib_vaccination_procedure_performed" : [ 1258243200 , 1258329600 , 1258416000 , 1258502400]}}}

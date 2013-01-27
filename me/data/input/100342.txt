@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f0000f6"} , "first" : "Sam" , "last" : "Bloggs" , "gender" : "M" , "patient_id" : "100342" , "birthdate" : -631152000 , "measures" : { "0034" : { "encounter_outpatient_encounter" : [ 1280620800] , "colorectal_cancer_diagnosis_active" : [ 1280620800]}}}

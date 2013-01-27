@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f0000fd"} , "first" : "Sue" , "last" : "Smith" , "gender" : "F" , "patient_id" : "100361" , "birthdate" : 622166400 , "measures" : { "0036" : { "encounter_ed_encounter" : 1277856000 , "asthma_diagnosis_active" : 1277856000}}}

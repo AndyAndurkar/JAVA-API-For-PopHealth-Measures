@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f0000e7"} , "first" : "Suzanne" , "last" : "Smith" , "gender" : "F" , "patient_id" : "100626" , "birthdate" : -290390400 , "measures" : { "0062" : { "medications_indicative_of_diabetes_medication_order" : 1277856000 , "nephropathy_screening_laboratory_test_performed" : 1277856000}}}

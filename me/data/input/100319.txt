@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f00005a"} , "first" : "Louise" , "last" : "Louis" , "birthdate" : -290390400 , "gender" : "F" , "patient_id" : "100319" , "measures" : { "0031" : { "encounter_outpatient_encounter" : 1277856000 , "unilateral_mastectomy_procedure_performed" : [ 12345] , "bilateral_mastectomy_modifier_procedure_performed" : [ 12345]}}}

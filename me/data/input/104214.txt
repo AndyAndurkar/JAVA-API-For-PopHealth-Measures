@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f0000a5"} , "first" : "Ernie" , "last" : "Bloggs" , "gender" : "M" , "patient_id" : "104214" , "birthdate" : 25142400 , "measures" : { "0421" : { "encounter_outpatient_encounter" : [ 1271721600] , "physical_exam_not_done_physical_exam_not_done" : [ 1271721600]}}}

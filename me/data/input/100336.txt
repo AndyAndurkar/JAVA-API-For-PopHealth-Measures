@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f00009c"} , "first" : "Perpetua" , "last" : "Bloggs" , "gender" : "F" , "patient_id" : "100336" , "birthdate" : 808790400 , "measures" : { "0033" : { "encounter_outpatient_encounter" : 1277856000 , "contraceptives_medication_active" : 1277856000 , "chlamydia_screening_laboratory_test_performed" : 1277856000}}}

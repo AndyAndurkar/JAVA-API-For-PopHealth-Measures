@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f000023"} , "first" : "Merril" , "last" : "Peterson" , "gender" : "M" , "patient_id" : "100895" , "birthdate" : -132624000 , "measures" : { "0089" : { "encounter_office_outpatient_consult_encounter" : [ 1275350400 , 1277942400] , "diabetic_retinopathy_diagnosis_active" : [ 1272672000]}}}

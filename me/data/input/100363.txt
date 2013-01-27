@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f0000fe"} , "first" : "Madelyn" , "last" : "Johnson" , "gender" : "F" , "patient_id" : "100363" , "birthdate" : 622166400 , "measures" : { "0036" : { "encounter_ed_encounter" : 1277856000 , "emphysema_diagnosis_active" : 1277856000 , "cystic_fibrosis_diagnosis_active" : 1277856000 , "asthma_diagnosis_active" : 1277856000}}}

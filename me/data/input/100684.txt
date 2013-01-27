@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f000027"} , "first" : "Van" , "last" : "Davis" , "gender" : "M" , "patient_id" : "100684" , "birthdate" : 656294400 , "measures" : { "0068" : { "ptca_procedure_performed" : 1237334400}}}

@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f000137"} , "first" : "Eden" , "last" : "Diamond" , "gender" : "F" , "patient_id" : "1003813" , "birthdate" : 1245024000 , "measures" : { "0038" : { "encounter_outpatient_w_pcp_obgyn_encounter" : 1252972800 , "hib_medication_allergy" : 1252972800}}}

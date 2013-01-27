@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f0000c4"} , "first" : "Rock" , "last" : "Gunderson" , "gender" : "M" , "patient_id" : "100813" , "birthdate" : 656294400 , "measures" : { "0081" : { "heart_failure_diagnosis_active" : 1276992000 , "encounter_outpatient_encounter" : [ 1276993000 , 1276994000]}}}

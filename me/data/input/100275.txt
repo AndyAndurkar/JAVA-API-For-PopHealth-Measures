@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f000097"} , "first" : "Fergus" , "last" : "Bloggs" , "gender" : "M" , "patient_id" : "100275" , "birthdate" : 631152000 , "measures" : { "0027" : { "encounter_outpatient_encounter" : [ 1249084800] , "tobacco_user_physical_exam_finding" : [ 1280620800]}}}

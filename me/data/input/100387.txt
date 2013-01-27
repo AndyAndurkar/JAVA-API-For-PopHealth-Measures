@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f000117"} , "first" : "Gregory" , "last" : "Batista" , "gender" : "M" , "patient_id" : "100387" , "birthdate" : 1245024000 , "measures" : { "0038" : { "encounter_outpatient_w_pcp_obgyn_encounter" : 1252972800 , "hepatitis_a_vaccination_procedure_performed" : [ 1252972800 , 1253059200]}}}

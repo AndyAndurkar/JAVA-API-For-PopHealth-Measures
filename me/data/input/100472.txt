@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f000046"} , "first" : "Rock" , "last" : "Gunderson" , "gender" : "M" , "patient_id" : "100472" , "birthdate" : 656294400 , "measures" : { "0047" : { "encounter_office_outpatient_consult_encounter" : [ 1276992000 , 1284854400] , "asthma_diagnosis_active" : 1276992000}}}

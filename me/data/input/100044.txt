@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f000088"} , "first" : "Mindy" , "last" : "Chrysler" , "gender" : "F" , "patient_id" : "100044" , "birthdate" : 865123200 , "measures" : { "0004" : { "alcohol_or_drug_dependence_diagnosis_active" : [ 1255910400 , 1256515200] , "encounter_acute_inpt_encounter" : [ 1255910400] , "encounter_outpatient_bh_encounter" : [ 1256515200]}}}

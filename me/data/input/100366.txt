@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f000101"} , "first" : "Paul" , "last" : "Johnson" , "gender" : "M" , "patient_id" : "100366" , "birthdate" : 1098144000 , "measures" : { "0036" : { "encounter_ed_encounter" : 1277856000 , "inhaled_steroid_combinations_medication_active" : 1277856000 , "asthma_diagnosis_active" : 1277856000}}}

@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f000129"} , "first" : "Krystal" , "last" : "Lopez" , "gender" : "F" , "patient_id" : "1003820" , "birthdate" : 1245024000 , "measures" : { "0038" : { "encounter_outpatient_w_pcp_obgyn_encounter" : 1252972800 , "polymyxin_medication_allergy" : 1252972800}}}

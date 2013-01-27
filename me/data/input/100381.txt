@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f00011a"} , "first" : "Ike" , "last" : "Filmore" , "gender" : "M" , "patient_id" : "100381" , "birthdate" : 1245024000 , "measures" : { "0038" : { "encounter_outpatient_w_pcp_obgyn_encounter" : 1252972800 , "influenza_vaccination_procedure_performed" : [ 1253008800 , 1253012400]}}}

@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f000114"} , "first" : "Andrew" , "last" : "Knox" , "gender" : "M" , "patient_id" : "1003838" , "birthdate" : 1245024000 , "measures" : { "0038" : { "encounter_outpatient_w_pcp_obgyn_encounter" : 1252972800 , "leukemia_diagnosis_active" : 1245024000}}}

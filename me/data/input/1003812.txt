@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f00011b"} , "first" : "Missy" , "last" : "Simpson" , "gender" : "F" , "patient_id" : "1003812" , "birthdate" : 1245024000 , "measures" : { "0038" : { "encounter_outpatient_w_pcp_obgyn_encounter" : 1252972800 , "hepatitis_b_diagnosis_diagnosis_resolved" : [ { "start" : 1252972800 , "end" : 1253145600}]}}}

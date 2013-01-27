@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f0000f0"} , "first" : "Anthony" , "last" : "Bloggs" , "gender" : "M" , "patient_id" : "100347" , "birthdate" : -631152000 , "measures" : { "0034" : { "encounter_outpatient_encounter" : [ 1280620800] , "total_colectomy_procedure_performed" : [ 1280620800]}}}

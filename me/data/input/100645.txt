@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f000039"} , "first" : "Sarah" , "last" : "Evans" , "gender" : "F" , "patient_id" : "100645" , "birthdate" : -467337600 , "measures" : { "0064" : { "medications_indicative_of_diabetes_medication_order" : 1277856000 , "polycystic_ovaries_diagnosis_active" : 1272585600}}}

@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f0000f2"} , "first" : "Harry" , "last" : "Bloggs" , "gender" : "M" , "patient_id" : "100344" , "birthdate" : -631152000 , "measures" : { "0034" : { "encounter_outpatient_encounter" : [ 1280620800] , "colonoscopy_procedure_performed" : [ 1028160000]}}}

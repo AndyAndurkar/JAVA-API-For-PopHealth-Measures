@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "4e0b9aa8b7ef910b1f000060"} , "first" : "Lavern" , "last" : "Defazio6" , "birthdate" : -290390400 , "gender" : "F" , "patient_id" : "100316" , "measures" : { "0031" : { }}}
